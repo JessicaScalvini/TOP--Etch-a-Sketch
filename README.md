@@ -1,4 +1,4 @@
-TO-DO
+#TO-DO
 
 Parte 1: 
     1. Creazione di una griglia 16X16 di div usando javascript 
