@@ -13,6 +13,3 @@ Parte 2:
 Parte 3: 
     1. Aggiungere un button che quando cliccato chiede all'utente il numero di righe/colonne
         -> salvataggio in una variabile 
-    
-
-
